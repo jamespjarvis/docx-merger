@@ -41,14 +41,6 @@
     "url": "https://github.com/apurvaojas/docx-merger/issues"
   },
   "homepage": "https://github.com/apurvaojas/docx-merger#readme",
-  "config": {
-    "ghooks": {
-      "pre-commit": "npm run validate"
-    },
-    "commitizen": {
-      "path": "node_modules/cz-conventional-changelog"
-    }
-  },
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.3.1",
