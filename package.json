@@ -35,7 +35,7 @@
   "author": "Apurv Ojas <apurvaojas10@gmail.com>",
   "dependencies": {
     "@xmldom/xmldom": "^0.8.6",
-    "jszip": "^2.6.1"
+    "jszip": "^2.7.0"
   },
   "bugs": {
     "url": "https://github.com/apurvaojas/docx-merger/issues"
